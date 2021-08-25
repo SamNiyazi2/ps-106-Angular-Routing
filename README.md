@@ -7,7 +7,12 @@ Original code from Plurasight course: [Angular Routing](https://app.pluralsight.
 By: [Deborah Kurata](https://app.pluralsight.com/profile/author/deborah-kurata) 
 
 Demo site: (Site goes to sleep after 20 minutes of inactivity)
-[Azure deployed site](https://ps-269-ps-building-a-spa-framework-using-angularjs.azurewebsites.net/)
+[Azure deployed site](https://ps-106-angular-routing.azurewebsites.net/)
+
+
+
+
+
 
 
 
