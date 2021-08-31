@@ -2,7 +2,7 @@
 
 04/13/2019
 
-Original code from Plurasight course: [Angular Routing](https://app.pluralsight.com/library/courses/angular-routing/table-of-contents) 
+Original code from Pluralsight course: [Angular Routing](https://app.pluralsight.com/library/courses/angular-routing/table-of-contents) 
 
 By: [Deborah Kurata](https://app.pluralsight.com/profile/author/deborah-kurata) 
 
